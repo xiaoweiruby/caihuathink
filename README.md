@@ -1,5 +1,7 @@
 # 最新思想作品（The NetWork）
 
+作者：肖威
+编辑：田文艺
 ❶ 《肖威领导力·音频课程》肖威著 (2018.01.01-2018.12.31)
 
 http://www.ximalaya.com/20626154/album/12371050/
@@ -8,7 +10,9 @@ http://www.ximalaya.com/20626154/album/12371050/
 
 https://shenzhoudance1.gitbooks.io/caihuathink/content/
 
-* [前言](README.md)
+
+
+* [课程大纲](README.md)
 
 
 * [20180101](2018/01/20180101.md)
