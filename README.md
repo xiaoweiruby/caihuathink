@@ -1,6 +1,14 @@
-# Summary
+# 最新思想作品（The NetWork）
 
-* [Introduction](README.md)
+❶ 《肖威领导力·音频课程》肖威著 (2018.01.01-2018.12.31)
+
+http://www.ximalaya.com/20626154/album/12371050/
+
+❷ 《职场生存指南》肖威著 (2018.01.01-2018.12.31)
+
+https://shenzhoudance1.gitbooks.io/caihuathink/content/
+
+* [前言](README.md)
 
 
 * [20180101](2018/01/20180101.md)
