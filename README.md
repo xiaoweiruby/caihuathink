@@ -62,7 +62,7 @@ https://shenzhoudance1.gitbooks.io/caihuathink/content/
 
 技术书籍的撰写（2018年01月01日-2018年12月31日）
 
-思想的打造：《撕裂式成长》
+思想的打造：《成长·道·术·论》
 
 Github：https://github.com/shenzhoudance/caihuathink
 
